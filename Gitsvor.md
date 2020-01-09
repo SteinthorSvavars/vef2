@@ -16,3 +16,6 @@
 
 ## 4
 version control = er leið til að halda utanum breitingar á kóða á meðan maður er að vinna í honum. Þetta gerir það líka léttara fyrir fólk sem er að vinna saman til að deila kóða vegna þess að þetta heldur skrá yfir breitingarnar. Þetta virkar líka fyrir skjöl
+
+## 5
+Það er létt leið til að halda utan um kóða og breitingu sem er gerða á honum
