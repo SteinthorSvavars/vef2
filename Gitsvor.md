@@ -19,3 +19,6 @@ version control = er leið til að halda utanum breitingar á kóða á meðan m
 
 ## 5
 Það er létt leið til að halda utan um kóða og breitingu sem er gerða á honum
+
+## 6
+Maður á að commita á um 30 mín fresti ef að þú ert að kóða eitthvað langt en ef þú ert að gera marga litla hluti þá eittiru ap kommita eftir hvern hlut
