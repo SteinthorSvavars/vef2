@@ -22,3 +22,7 @@ version control = er leið til að halda utanum breitingar á kóða á meðan m
 
 ## 6
 Maður á að commita á um 30 mín fresti ef að þú ert að kóða eitthvað langt en ef þú ert að gera marga litla hluti þá eittiru ap kommita eftir hvern hlut
+
+## 7
++ working directory er eitt afrit af verkefninu sem þú vinnur í, þetta directory er pullað frá git directoryinu þínu
++ staging area er staðurinn sem þú getur skoðað breitingarnar sem þú hefur gert áður en þú commitar
