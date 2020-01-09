@@ -13,3 +13,6 @@
 + git log = er notað til að sjá söguna sem þú hefur commitað
 + git checkout = er notað til að kíkja á hvaða commit sem þú hefur gert
 + git branch = þetta er skypunin sem maður notar til að búa til nýtt branch, eyða, sjá lista yfir þau og endurnefna branch
+
+## 4
+version control = er leið til að halda utanum breitingar á kóða á meðan maður er að vinna í honum. Þetta gerir það líka léttara fyrir fólk sem er að vinna saman til að deila kóða vegna þess að þetta heldur skrá yfir breitingarnar. Þetta virkar líka fyrir skjöl
